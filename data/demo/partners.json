@@ -1,0 +1,7 @@
+{
+  "_about": "SAMPLE DATA for demonstration only (projects.html?demo=1). These companies do not exist.",
+  "partners": [
+    { "id": "sample-partner-a", "name": "Sample Company A Ltd (demo)", "logo": "", "website": "", "description": "<p>Demonstration record showing how a corporate partner appears. Not a real company.</p>", "status": "active", "visibility": "published", "logo_authorised": true, "sort_order": 1 },
+    { "id": "sample-partner-b", "name": "Sample Industries B (demo)", "logo": "", "website": "", "description": "<p>Demonstration record. Not a real company.</p>", "status": "past", "visibility": "published", "logo_authorised": true, "sort_order": 2 }
+  ]
+}

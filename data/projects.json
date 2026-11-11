@@ -1,0 +1,4 @@
+{
+  "_about": "Project records for the Bella Foundation website. This file is used only when no Supabase backend is connected; once the backend is connected, projects are managed in the admin dashboard instead. See README.md → 'Adding projects without the dashboard' for the full list of fields and an example.",
+  "projects": []
+}

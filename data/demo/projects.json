@@ -1,0 +1,56 @@
+{
+  "_about": "SAMPLE DATA for demonstration only (projects.html?demo=1). These are not real Bella Foundation projects. All names, places, numbers and dates are invented to show how the page works.",
+  "projects": [
+    {
+      "id": "demo-001", "code": "DEMO-001", "title": "Sample: School Learning Support (demo record)",
+      "states": ["UK"], "district": "Sample District", "location": "Sample Block",
+      "category": "Education", "status": "ongoing", "start_date": "2026-04-01", "end_date": "",
+      "summary": "Demonstration record showing how an ongoing project appears on the map, in the lists and on its own page.",
+      "background": "<p>This paragraph stands in for the background and community needs of a real project.</p>",
+      "objectives": "<ul><li>First sample objective</li><li>Second sample objective</li></ul>",
+      "scope": "<p>Sample scope of work.</p>", "activities": "<p>Sample implementation activities.</p>", "outcomes": "",
+      "target_beneficiaries": "Sample: 500 students in 10 schools", "beneficiaries_reached": 120, "beneficiaries_note": "sample figure",
+      "indicators": [{ "label": "Schools covered (sample)", "value": "10" }, { "label": "Teachers oriented (sample)", "value": "24" }],
+      "updates": [{ "date": "2026-06-15", "title": "Sample update", "text": "A short progress note would appear here." }],
+      "partner_ids": ["sample-partner-a"], "implementation_partners": "", "stakeholders": "",
+      "cover_image": "assets/images/n5.jpg", "cover_focus": "50% 50%",
+      "gallery": [{ "url": "assets/images/n4.jpg", "caption": "Sample photograph caption", "date": "2026-05-10" }, { "url": "assets/images/n7.jpg", "caption": "Second sample photograph", "date": "" }],
+      "videos": [], "documents": [], "visibility": "published", "featured": true, "sort_order": 1
+    },
+    {
+      "id": "demo-002", "code": "DEMO-002", "title": "Sample: Women's Enterprise Programme (demo record)",
+      "states": ["UK", "HP"], "district": "", "location": "",
+      "category": "Women's Empowerment", "status": "completed", "start_date": "2025-01-01", "end_date": "2025-12-31",
+      "summary": "Demonstration record of a completed project that operates in two states, so it appears under both.",
+      "background": "", "objectives": "<p>Sample objective.</p>", "scope": "", "activities": "", "outcomes": "<p>Sample outcome statement.</p>",
+      "target_beneficiaries": "", "beneficiaries_reached": 300, "beneficiaries_note": "sample figure",
+      "indicators": [], "updates": [], "partner_ids": ["sample-partner-b"],
+      "cover_image": "assets/images/n8.jpg", "gallery": [], "videos": [], "documents": [], "visibility": "published", "featured": false, "sort_order": 2
+    },
+    {
+      "id": "demo-003", "code": "DEMO-003", "title": "Sample: Plantation and Water Conservation (demo record)",
+      "states": ["TR"], "district": "Sample District", "location": "Sample Village",
+      "category": "Environment and Sustainability", "status": "completed", "start_date": "2025-06-01", "end_date": "2026-03-31",
+      "summary": "Demonstration record of a completed environment project.",
+      "partner_ids": ["sample-partner-a"], "cover_image": "assets/images/n7.jpg", "visibility": "published", "sort_order": 3
+    },
+    {
+      "id": "demo-004", "code": "DEMO-004", "title": "Sample: Skill Training Centre (demo record)",
+      "states": ["MH"], "district": "Sample District", "location": "",
+      "category": "Skill Development", "status": "ongoing", "start_date": "2026-02-01",
+      "summary": "Demonstration record. Maharashtra also has a completed sample project, so it shows the combined colour.",
+      "partner_ids": [], "cover_image": "", "visibility": "published", "sort_order": 4
+    },
+    {
+      "id": "demo-005", "code": "DEMO-005", "title": "Sample: Rural Health Camps (demo record)",
+      "states": ["MH", "DL"], "category": "Healthcare and Sanitation", "status": "completed", "start_date": "2024-09-01", "end_date": "2025-02-28",
+      "summary": "Demonstration record covering a state and a small Union Territory.",
+      "partner_ids": ["sample-partner-b"], "cover_image": "assets/images/n6.jpg", "visibility": "published", "sort_order": 5
+    },
+    {
+      "id": "demo-006", "code": "DEMO-006", "title": "Sample: Farm Livelihoods Initiative (demo record)",
+      "states": ["RJ"], "category": "Rural Development and Livelihoods", "status": "planned", "start_date": "2027-01-01",
+      "summary": "Demonstration record of a planned project.", "partner_ids": [], "visibility": "published", "sort_order": 6
+    }
+  ]
+}
